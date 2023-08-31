@@ -1,0 +1,39 @@
+
+
+.Slider{
+  margin: auto;
+  width: 1519px;
+}
+
+#app {
+    height: 100%;
+  }
+  html,
+  body {
+    position: relative;
+    height: 100%;
+  }
+  
+  body {
+    background: #eee;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: #000;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .mySwiper {
+    
+    width: 967px;
+    height: 450px;
+    margin-left: 450px;
+    border-radius: 20px;
+    svg{
+        width: 967px;
+        height: 450px;
+    }
+
+}
+
+  

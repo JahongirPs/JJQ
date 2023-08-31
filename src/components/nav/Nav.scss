@@ -1,0 +1,36 @@
+nav{
+    margin: auto;
+    width: 1519px;
+}
+
+.main_nav{
+    width: 1519px;
+    height: 80px;
+    background-color: rgb(235, 232, 232);
+}
+
+.img_flag{
+    object-fit: cover;
+    cursor: pointer;
+        display: flex;
+        gap: 0 40px;
+        margin-left: 600px;
+        padding-top: 20px;
+        a{
+            text-decoration: none;
+            color: dodgerblue;
+            font-size: 28px;
+            outline: none;
+           
+         }
+         .a{
+            margin-left: 30px;
+         }
+         
+}
+.icon_email{
+    position: absolute;
+    font-size: 38px;
+    left: 1070px;
+}   
+

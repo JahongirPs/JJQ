@@ -1,0 +1,37 @@
+
+
+.img_contact{
+    margin: 30px 0;
+    width: 1367px;
+    margin-left: 50px;
+}
+
+.Text_contact{
+     h1{
+        font-size: 58px;
+        font-weight: 700px;
+        margin-left: 50px;
+        margin-top: 70px;
+     }
+     p{
+        line-height: 30px;
+       font-size: 21px;
+       margin-left: 50px;
+       margin-top: 19px;
+     }
+     ul{
+        margin-left: 50px;
+        padding-left: 25px;
+        padding-top: 25px;
+        padding-bottom: 70px;
+        list-style-type: disc;
+        li{
+            font-size: 19px;
+            box-sizing: border-box;
+            font-family: Roboto,sans-serif;
+            margin: 0;
+            padding: 0;
+            margin-top: 19px;
+        }
+     }
+}
